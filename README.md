@@ -155,3 +155,7 @@ ABILIFY/
 ├── .gitignore
 ├── index.html
 └── README.md
+
+## Contribution Notes
+
+This project welcomes community contributions and accessibility-focused improvements.
